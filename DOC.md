@@ -246,3 +246,4 @@ Việc triển khai **Adapter** như thế này sẽ giúp ta tiết kiệm đư
 - [Face Mask Detection in Real-Time using MobileNetv2](https://www.ijeat.org/wp-content/uploads/papers/v10i6/F30500810621.pdf)
 - [How To Train Mobilenetv2 On A Custom Dataset](https://blog.roboflow.com/how-to-train-mobilenetv2-on-a-custom-dataset/)
 - [Django](https://www.djangoproject.com/)
+- [Yolov5](https://github.com/ultralytics/yolov5)
